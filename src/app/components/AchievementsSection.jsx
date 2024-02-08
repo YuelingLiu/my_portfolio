@@ -12,7 +12,7 @@ const AnimatedNumbers = dynamic(
 const achievementsList = [
   {
     metric: 'Software Development',
-    value: '100%',
+    value: '100',
 
     emphasis: true,
   },
